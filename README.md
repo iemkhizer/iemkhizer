@@ -174,38 +174,6 @@ Reduced manual processing time by **60%** with a clean GUI and automated end-of-
 
 <div align="center">
 
-## 〔 GitHub Activity 〕
-
-<br/>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iemkhizer&show_icons=true&theme=dark&bg_color=0d0d14&border_color=1e1e2e&icon_color=00ffc8&title_color=00ffc8&text_color=aaaaaa&hide_border=false&rank_icon=github&card_width=420)](https://github.com/iemkhizer)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iemkhizer&layout=compact&theme=dark&bg_color=0d0d14&border_color=1e1e2e&title_color=00ffc8&text_color=aaaaaa&hide_border=false&card_width=335)](https://github.com/iemkhizer)
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=iemkhizer&theme=dark&background=0d0d14&border=1e1e2e&ring=00ffc8&fire=a78bfa&currStreakLabel=00ffc8&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=555555&card_width=770)](https://github.com/iemkhizer)
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iemkhizer&bg_color=0d0d14&color=00ffc8&line=a78bfa&point=ffffff&area=true&area_color=00ffc8&hide_border=false&border_color=1e1e2e&custom_title=Contribution%20Activity)](https://github.com/iemkhizer)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=false&animation=fadeIn" width="100%" />
 
 `✦  iemkhizar · github.com/iemkhizer · crafted with precision & caffeine  ✦`
