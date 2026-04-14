@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Currently @ CoreX Tech](https://img.shields.io/badge/Currently%20%40-CoreX%20Tech-00FFC8?style=flat-square&labelColor=0d0d14)](https://github.com/iemkhizar)
+[![Currently @ CoreX Tech](https://img.shields.io/badge/Currently%20%40-CoreX%20Tech-00FFC8?style=flat-square&labelColor=6C3BAA)](https://github.com/iemkhizar)
 [![Repos](https://img.shields.io/badge/Repos-20-a78bfa?style=flat-square&labelColor=0d0d14)](https://github.com/iemkhizar?tab=repositories)
 [![Contributions](https://img.shields.io/badge/Contributions%202026-250%2B-fbbf24?style=flat-square&labelColor=0d0d14)](https://github.com/iemkhizar)
 [![Location](https://img.shields.io/badge/📍-Lahore%2C%20Pakistan-555555?style=flat-square&labelColor=0d0d14)](https://github.com/iemkhizar)
