@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Khizar&fontSize=52&fontAlignY=36&fontColor=ffffff&fontWeight=800&desc=iemkhizar%20%C2%B7%20Lahore%2C%20Pakistan&descAlignY=58&descSize=14&descColor=00ffc8&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammad%20Khizar&fontSize=52&fontAlignY=34&fontColor=ffffff&fontWeight=800&desc=iemkhizar%20%C2%B7%20Lahore%2C%20Pakistan%20%C2%B7%20BSc%20Software%20Engineering%20%E2%80%94%20FAST%20NUCES&descAlignY=55&descSize=13&descColor=c084fc&animation=fadeIn" width="100%" />
 
 <br/>
 
 <a href="https://github.com/iemkhizar">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2800&pause=800&color=00FFC8&center=true&vCenter=true&width=600&height=45&lines=AI+%2F+ML+Engineer;Full-Stack+Developer;LLM+Fine-Tuner;Neural+Network+Architect;UI+%2F+UX+Designer" alt="Typing SVG" />
 </a>
-
-<br/>
-
-```
-// Building the future, one model at a time
-```
 
 <br/>
 
@@ -57,7 +51,7 @@
 **Backend · Infra · DevOps**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300ffc8?style=for-the-badge&logo=fastapi&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%2386efac?style=for-the-badge&logo=node.js&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%2300c896?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23888888?style=for-the-badge&logo=express&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23f87171?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%2338bdf8?style=for-the-badge&logo=docker&logoColor=white)
@@ -157,7 +151,7 @@ Boosted workflow efficiency by **50%** with integrated client management and ser
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ade80?style=flat-square&logo=mongodb&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-888?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-61dafb?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-86efac?style=flat-square&logo=node.js&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-00c896?style=flat-square&logo=node.js&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -203,22 +197,6 @@ Reduced manual processing time by **60%** with a clean GUI and automated end-of-
 ---
 
 <div align="center">
-
-## 〔 Education 〕
-
-| | Institution | Degree | Period |
-|:---:|:---|:---|:---:|
-| 🎓 | **FAST NUCES, Lahore** | BSc Software Engineering | 2021 – 2025 |
-| 🏫 | **Punjab Group of Colleges** | Intermediate · Pre-Engineering | 2019 – 2021 |
-
-<br/>
-
-## 〔 Volunteer 〕
-
-| Role | Event | Period |
-|:---|:---|:---:|
-| **Deputy Head of Security** — led 50+ volunteers | SOFTEC | Oct 2023 – Apr 2024 |
-| **Security Volunteer** — cross-team coordination | SOFTEC | Nov 2022 – Apr 2023 |
 
 </div>
 
