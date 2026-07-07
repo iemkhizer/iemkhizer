@@ -13,11 +13,3 @@ AI / ML Engineer · Full-Stack Developer · Lahore, Pakistan
 **Stack**
 
 Python · JavaScript · TensorFlow · PyTorch · FastAPI · React · React Native · PostgreSQL · Docker
-
----
-
-<div align="center">
-
-`github.com/iemkhizer`
-
-</div>
