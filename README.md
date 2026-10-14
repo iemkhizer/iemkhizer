@@ -2,7 +2,7 @@
 
 # Mohammad Khizar
 
-AI / ML Engineer · Full-Stack Developer · Lahore, Pakistan
+AI / ML Engineer · Full-Stack Developer · Gothenburg, Sweden
 
 [GitHub](https://github.com/iemkhizer) · [LinkedIn](https://www.linkedin.com/in/mohammad-khizar-35694a280) · [Email](mailto:sheikhmkhizar@gmail.com) · [Portfolio](https://mkhizar.vercel.app/)
 
